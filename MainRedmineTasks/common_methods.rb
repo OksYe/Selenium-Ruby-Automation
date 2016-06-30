@@ -71,7 +71,6 @@ end
 
 def navigate_to_project (driver, project_name)
   wait = Selenium::WebDriver::Wait.new(:timeout=>10)
-  #project_url = 'projects/' + project_name.to_s.downcase
 
   driver.find_element(:css, '.user.active').click
   wait.until{driver.find_element(:css, 'a[href*="/projects/"]').displayed?}
@@ -101,6 +100,7 @@ end
 
 def create_new_issue (driver, issue_type)
   wait = Selenium::WebDriver::Wait.new(:timeout=>10)
+  issue_topic = 'Some ' + issue_type + ' topic.'
 
   driver.find_element(:css, 'a.new-issue').click
   wait.until{driver.find_element(:css, 'a.new-issue.selected').displayed?}
@@ -109,10 +109,16 @@ def create_new_issue (driver, issue_type)
   option = Selenium::WebDriver::Support::Select.new(issue_types_dropdown_menu)
   option.select_by(:text, issue_type)
 
-  driver.find_element(:css, 'input#issue_subject').send_keys('Some ' + issue_type.to_s + ' topic.')
+  sleep(1)
+
+  driver.find_element(:css, 'input#issue_subject').send_keys(issue_topic)
+
+  sleep(1)
 
   driver.find_element(:css, 'input[type="submit"][name="commit"]').click
-  wait.until{@driver.find_element(:id, 'flash_notice').displayed?}
+  wait.until{driver.find_element(:id, 'flash_notice').displayed?}
+
+  issue_id = driver.find_element(:css, 'div#flash_notice a').text.to_s.slice(1..-1)
 end
 
 def get_random_login

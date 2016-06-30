@@ -92,18 +92,72 @@ class TestRedmine < Test::Unit::TestCase
   end
 
   def test_can_create_new_bug
+    issue_type = 'Bug'
+
     register_new_user(@driver, @login, @password1)
     project_name = create_new_project(@driver)
     navigate_to_project(@driver, project_name)
-    create_new_issue(@driver, 'Feature')
+    issue_id = create_new_issue(@driver, issue_type)
 
     actual_text = @driver.find_element(:id, 'flash_notice').text
     assert_true(actual_text.to_s.include?('Issue'))
     assert_true(actual_text.to_s.include?('created.'))
+    assert_true(@driver.find_element(:css, 'div#content h2').text.to_s.include?(issue_type))
+    assert_true(@driver.find_element(:css, 'div.subject h3').text.to_s.include?(issue_type))
 
+    @driver.find_element(:css, 'a.issues').click
+    created_issue_id = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.id').text
+    created_issue_type = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.tracker').text
+
+    assert_equal(issue_id, created_issue_id)
+    assert_equal(issue_type, created_issue_type)
+    end
+
+  def test_can_create_new_feature
+    issue_type = 'Feature'
+
+    register_new_user(@driver, @login, @password1)
+    project_name = create_new_project(@driver)
+    navigate_to_project(@driver, project_name)
+    issue_id = create_new_issue(@driver, issue_type)
+
+    actual_text = @driver.find_element(:id, 'flash_notice').text
+    assert_true(actual_text.to_s.include?('Issue'))
+    assert_true(actual_text.to_s.include?('created.'))
+    assert_true(@driver.find_element(:css, 'div#content h2').text.to_s.include?(issue_type))
+    assert_true(@driver.find_element(:css, 'div.subject h3').text.to_s.include?(issue_type))
+
+    @driver.find_element(:css, 'a.issues').click
+    created_issue_id = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.id').text
+    created_issue_type = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.tracker').text
+
+    assert_equal(issue_id, created_issue_id)
+    assert_equal(issue_type, created_issue_type)
   end
 
-  #def teardown
-  #  @driver.quit
-  #end
+  def test_can_create_new_support
+    issue_type = 'Support'
+
+    register_new_user(@driver, @login, @password1)
+    project_name = create_new_project(@driver)
+    navigate_to_project(@driver, project_name)
+    issue_id = create_new_issue(@driver, issue_type)
+
+    actual_text = @driver.find_element(:id, 'flash_notice').text
+    assert_true(actual_text.to_s.include?('Issue'))
+    assert_true(actual_text.to_s.include?('created.'))
+    assert_true(@driver.find_element(:css, 'div#content h2').text.to_s.include?(issue_type))
+    assert_true(@driver.find_element(:css, 'div.subject h3').text.to_s.include?(issue_type))
+
+    @driver.find_element(:css, 'a.issues').click
+    created_issue_id = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.id').text
+    created_issue_type = @driver.find_element(:css, 'table[class*="list issues"] tbody > *:first-child td.tracker').text
+
+    assert_equal(issue_id, created_issue_id)
+    assert_equal(issue_type, created_issue_type)
+  end
+
+  def teardown
+    @driver.quit
+  end
 end
