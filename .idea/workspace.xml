@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="675d9b79-8eaf-4c76-b900-6c5d0a27a07a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/HomeTask1.iml" afterPath="$PROJECT_DIR$/.idea/HomeTask1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/yok.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/yok.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainRedmineTasks/common_methods.rb" afterPath="$PROJECT_DIR$/MainRedmineTasks/common_methods.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb" afterPath="$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb" />
     </list>
     <ignored path="HomeTask1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,16 +20,18 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HomeTask1@test_create_project_version__HomeTask1.coverage" NAME="test_create_project_version: HomeTask1 Coverage Results" MODIFIED="1466022010811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
-    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_bug__HomeTask1.coverage" NAME="test_can_create_new_bug: HomeTask1 Coverage Results" MODIFIED="1467663045937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
-    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_feature__HomeTask1.coverage" NAME="test_can_create_new_feature: HomeTask1 Coverage Results" MODIFIED="1467663852145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_bug__HomeTask1.coverage" NAME="test_can_create_new_bug: HomeTask1 Coverage Results" MODIFIED="1467724433262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_feature__HomeTask1.coverage" NAME="test_can_create_new_feature: HomeTask1 Coverage Results" MODIFIED="1467724455496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@registration.coverage" NAME="registration Coverage Results" MODIFIED="1463935468607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@test_can_login_new_password__HomeTask1.coverage" NAME="test_can_login_new_password: HomeTask1 Coverage Results" MODIFIED="1465242997660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@test_hover__HomeTask1.coverage" NAME="test_hover: HomeTask1 Coverage Results" MODIFIED="1467746945354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@Run_test__TestRedmine___HomeTask1.coverage" NAME="Run test 'TestRedmine': HomeTask1 Coverage Results" MODIFIED="1467746492876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@test_password_change__HomeTask1.coverage" NAME="test_password_change: HomeTask1 Coverage Results" MODIFIED="1465242755089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@test_registration_successful__HomeTask1.coverage" NAME="test_registration_successful: HomeTask1 Coverage Results" MODIFIED="1467665209405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@Run_test__test_registration___HomeTask1.coverage" NAME="Run test 'test_registration': HomeTask1 Coverage Results" MODIFIED="1465243025942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
-    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_support__HomeTask1.coverage" NAME="test_can_create_new_support: HomeTask1 Coverage Results" MODIFIED="1467663965861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_support__HomeTask1.coverage" NAME="test_can_create_new_support: HomeTask1 Coverage Results" MODIFIED="1467724479532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@test_can_logout__HomeTask1.coverage" NAME="test_can_logout: HomeTask1 Coverage Results" MODIFIED="1465242413523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
-    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_project__HomeTask1.coverage" NAME="test_can_create_new_project: HomeTask1 Coverage Results" MODIFIED="1467630633197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
+    <SUITE FILE_PATH="coverage/HomeTask1@test_can_create_new_project__HomeTask1.coverage" NAME="test_can_create_new_project: HomeTask1 Coverage Results" MODIFIED="1467721769641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@Run_test__test_redmine___HomeTask1.coverage" NAME="Run test 'test_redmine': HomeTask1 Coverage Results" MODIFIED="1467665388599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
     <SUITE FILE_PATH="coverage/HomeTask1@test_can_login__HomeTask1.coverage" NAME="test_can_login: HomeTask1 Coverage Results" MODIFIED="1465242393010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MainRedmineTasks" MODULE_NAME="HomeTask1" />
   </component>
@@ -42,11 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_redmine.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_bonus_tasks.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_bonus_tasks.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_redmine.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -55,8 +67,8 @@
       <file leaf-file-name="common_methods.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainRedmineTasks/common_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1802">
-              <caret line="106" column="51" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="51" />
+            <state relative-caret-position="-442">
+              <caret line="7" column="68" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -73,8 +85,9 @@
         <option value="$PROJECT_DIR$/MainRedmineTasks/registration.rb" />
         <option value="$PROJECT_DIR$/MainRedmineTasks/test_login.rb" />
         <option value="$PROJECT_DIR$/MainRedmineTasks/test_registration.rb" />
-        <option value="$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb" />
         <option value="$PROJECT_DIR$/MainRedmineTasks/common_methods.rb" />
+        <option value="$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb" />
+        <option value="$PROJECT_DIR$/MainRedmineTasks/test_bonus_tasks.rb" />
       </list>
     </option>
   </component>
@@ -134,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,14 +172,38 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'test_redmine': HomeTask1">
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.test_hover: HomeTask1">
+    <configuration default="false" name="test_can_create_new_project: HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="HomeTask1" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/MainRedmineTasks" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/MainRedmineTasks/test_redmine.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_can_create_new_project" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="false" name="test_can_create_new_bug: HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="HomeTask1" />
@@ -216,7 +254,7 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="Run test 'test_redmine': HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="Run test 'TestRedmine': HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="HomeTask1" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -241,7 +279,7 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="test_registration_successful: HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="test_hover: HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="HomeTask1" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -256,34 +294,9 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/MainRedmineTasks/test_redmine.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/MainRedmineTasks/test_bonus_tasks.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_registration_successful" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_can_create_new_support: HomeTask1" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="HomeTask1" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/MainRedmineTasks" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/MainRedmineTasks/test_redmine.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_can_create_new_support" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_hover" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
@@ -406,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_bug: HomeTask1" />
-      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_feature: HomeTask1" />
-      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'test_redmine': HomeTask1" />
-      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_registration_successful: HomeTask1" />
-      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_support: HomeTask1" />
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_project: HomeTask1" />
+      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_bug: HomeTask1" />
+      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_feature: HomeTask1" />
+      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'TestRedmine': HomeTask1" />
+      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_hover: HomeTask1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'test_redmine': HomeTask1" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_registration_successful: HomeTask1" />
-        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_support: HomeTask1" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_feature: HomeTask1" />
-        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_bug: HomeTask1" />
+        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_hover: HomeTask1" />
+        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'TestRedmine': HomeTask1" />
+        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_feature: HomeTask1" />
+        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_bug: HomeTask1" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_can_create_new_project: HomeTask1" />
       </list>
     </recent_temporary>
   </component>
@@ -456,43 +469,45 @@
       <workItem from="1467621651347" duration="95000" />
       <workItem from="1467630559686" duration="4473000" />
       <workItem from="1467659756682" duration="4225000" />
+      <workItem from="1467721203810" duration="1642000" />
+      <workItem from="1467724600526" duration="3479000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'test_redmine'__HomeTask1 - 2016.07.04 at 23h 33m 22s.xml">
-      <configuration name="Run test 'test_redmine': HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'TestRedmine'__HomeTask1 - 2016.07.05 at 17h 02m 21s.xml">
+      <configuration name="Run test 'TestRedmine': HomeTask1" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'test_redmine'__HomeTask1 - 2016.07.04 at 23h 52m 22s.xml">
-      <configuration name="Run test 'test_redmine': HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'TestRedmine'__HomeTask1 - 2016.07.05 at 22h 24m 15s.xml">
+      <configuration name="Run test 'TestRedmine': HomeTask1" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="test_can_create_new_bug__HomeTask1 - 2016.07.04 at 23h 06m 24s.xml">
-      <configuration name="test_can_create_new_bug: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_bug__HomeTask1 - 2016.07.04 at 23h 07m 53s.xml">
-      <configuration name="test_can_create_new_bug: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_bug__HomeTask1 - 2016.07.04 at 23h 09m 00s.xml">
-      <configuration name="test_can_create_new_bug: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_bug__HomeTask1 - 2016.07.04 at 23h 11m 08s.xml">
-      <configuration name="test_can_create_new_bug: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_feature__HomeTask1 - 2016.07.04 at 23h 20m 38s.xml">
-      <configuration name="test_can_create_new_feature: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_feature__HomeTask1 - 2016.07.04 at 23h 24m 39s.xml">
-      <configuration name="test_can_create_new_feature: HomeTask1" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test_can_create_new_support__HomeTask1 - 2016.07.04 at 23h 26m 28s.xml">
+    <history-entry file="test_can_create_new_support__HomeTask1 - 2016.07.05 at 16h 14m 56s.xml">
       <configuration name="test_can_create_new_support: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 12m 02s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 13m 06s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 15m 54s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 25m 48s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 28m 07s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_hover__HomeTask1 - 2016.07.05 at 22h 29m 26s.xml">
+      <configuration name="test_hover: HomeTask1" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
     <history-entry file="test_registration_successful__HomeTask1 - 2016.07.04 at 23h 47m 00s.xml">
       <configuration name="test_registration_successful: HomeTask1" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53061000" />
+    <option name="totallyTimeSpent" value="58182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -505,15 +520,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23938507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.79122543" sideWeight="0.50300753" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4160363" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4160363" sideWeight="0.49699247" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4160363" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -523,6 +537,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -539,11 +554,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MainRedmineTasks/common_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainRedmineTasks/common_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="51" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -855,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,22 +901,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainRedmineTasks/common_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="51" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="51" />
+        <state relative-caret-position="-442">
+          <caret line="7" column="68" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_redmine.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainRedmineTasks/test_bonus_tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
